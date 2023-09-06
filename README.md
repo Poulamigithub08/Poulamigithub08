@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Poulami Das and I am currently pursuing my Btech(CSE) degree from Techno Main Saltlake.
+- 👀 I’m interested in computer science and mathematics. 
+- 🌱 I’m currently learning front-end web developement from a reuted learning platform, Udemy.
+- I have learnt the basics of HTML and CSS so far and completed few projects on the basis of HTML and CSS
+- 📫 EMAIL ID: daspoulami2005@gmail.com
